@@ -7,6 +7,7 @@ from datetime import datetime
 USER_TOKEN = "ur_token_here" # Replace with your own token
 SERVER_ID = 390628544369393664  # r/CryptoCurrency server ID
 CHANNEL_ID = 983014987696078888  # Target channel ID
+#akjd
 
 # Starting point (e.g., today or earlier)
 START_TIME = datetime(2024, 12, 31, 0, 0, 0)  # Today, adjust as needed
